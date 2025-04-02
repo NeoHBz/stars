@@ -1,7 +1,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 296 repositories across 36 languages*
+*Total: 298 repositories across 36 languages*
 
 ### Astro (1)
 
@@ -294,8 +294,10 @@
 
 - [Chase272/sleep-timer](https://github.com/Chase272/sleep-timer) - A sleep timer that automatically shuts down the pc after a time interval
 
-### TypeScript (67)
+### TypeScript (69)
 
+- [drivebase/drivebase](https://github.com/drivebase/drivebase) - Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers into one seamless interface.
+- [mxvsh/starkit](https://github.com/mxvsh/starkit) - Automatically updates your README with a list of repositories you've starred on GitHub, categorized by programming language
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [mxvsh/remotion-stargazer](https://github.com/mxvsh/remotion-stargazer)
 - [sahilatahar/Code-Sync](https://github.com/sahilatahar/Code-Sync) - A real-time collaborative code editor featuring unique room generation, syntax highlighting, and auto-suggestions. Users can seamlessly edit, save, and download files while communicating through group chat
